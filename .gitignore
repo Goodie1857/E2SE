@@ -1,0 +1,5 @@
+config.properties
+notes.md
+*.log
+*.tmp
+.DS_Store
